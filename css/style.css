@@ -85,10 +85,10 @@ ol li
   margin-right: auto;}
 
 #main
-{ background: #1D1D1D url(../images/pattern.png) repeat;}
+{ background: #1D1D1D url(../foto/tlo.png) repeat;}
   
 header
-{ background: #1D1D1D url(../images/pattern.png) repeat;
+{ background: #1D1D1D url(../foto/tlo.png) repeat;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
@@ -352,7 +352,7 @@ ul img {
  
 #slideshow-caption .slideshow-caption-container {
   padding: 10px 25px 10px 25px; 
-  background: transparent url(../images/transparent.png) repeat;  
+  background: transparent url(../foto/transparentny.png) repeat;  
   z-index: 1000;}
  
 #slideshow-caption p {
